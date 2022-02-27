@@ -1,0 +1,494 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The English banner of truth displayed: or, The state of this present engagement against Scotland. Wherein is soberly discuss'd the lawfulness and necessity of the engagement. The high aggravations of it, as to the Scots. The groundlesness of those of the Presbyteries coniunction with the Scots and malignants, either from religion, their former state-principles, or the demeanour of those those [sic] in authority towards them. Also, a brief series of transactions, whereby it appears that those of the Presbytery have continually endeavoured the disturbing of the peace of the nation, ... and are the ground of this third war now with the Scots and malignants. Together with some occasional assertions; that the laying aside of some members of Parliament, the proceedings against the late King, the changings of the government, is sutable unto the end of all our engagements ... / By a friend to the Commonwealth of England.</title>
+            <author>Friend to the Commonwealth of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84012</idno>
+            <idno type="STC">Wing E3081</idno>
+            <idno type="STC">Thomason E608_12</idno>
+            <idno type="STC">ESTC R201940</idno>
+            <idno type="EEBO-CITATION">99862421</idno>
+            <idno type="PROQUEST">99862421</idno>
+            <idno type="VID">114580</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84012)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114580)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 93:E608[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The English banner of truth displayed: or, The state of this present engagement against Scotland. Wherein is soberly discuss'd the lawfulness and necessity of the engagement. The high aggravations of it, as to the Scots. The groundlesness of those of the Presbyteries coniunction with the Scots and malignants, either from religion, their former state-principles, or the demeanour of those those [sic] in authority towards them. Also, a brief series of transactions, whereby it appears that those of the Presbytery have continually endeavoured the disturbing of the peace of the nation, ... and are the ground of this third war now with the Scots and malignants. Together with some occasional assertions; that the laying aside of some members of Parliament, the proceedings against the late King, the changings of the government, is sutable unto the end of all our engagements ... / By a friend to the Commonwealth of England.</title>
+                  <author>Friend to the Commonwealth of England.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert, at the Black Spread-Eagle at the West-end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "the lawfulness .. towards them." are bracketed together on the title page.</note>
+                  <note>Annotation on Thomason copy: "July 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>England --  Foreign relations --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114580:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Engliſh Banner of Truth diſplayed:</hi> OR, The State of this preſent ENGAGEMENT Againſt SCOTLAND.</p>
+            <p>Wherein is to be diſcuſs'd
+<list>
+                  <item>
+                     <hi>The Lawfulneſs and Neceſſity of the Engagement.</hi>
+                  </item>
+                  <item>
+                     <hi>The high Aggravations of it, as to the Scots.</hi>
+                  </item>
+                  <item>
+                     <hi>The groundleſneſs of thoſe of the Presbyteries con<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>unction with the Scots and Malignants, Either from Religion, their former State-principles, or the demeanour of thoſe thoſe in Authority towards them.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>ALSO, A brief Series of Tranſactions, whereby it ap<g ref="char:EOLhyphen"/>pears that thoſe of the Presbytery have continually endeavoured the diſturbing of the Peace of the Nation, and have been the occaſion and encouragement of two Wars ſince the late King's party were firſt ſubdued, and are the Ground of this Third War now with the <hi>Scots</hi> and <hi>Malignants.</hi>
+            </p>
+            <p>Together with ſome Occaſional Aſſertions; That the <hi>laying aſide of ſome Members of Parliament, The proceedings againſt the late King, The changing of the Government,</hi> is ſutable unto the end of all our Engagements, and the ſupreme Law, <hi>The Safety of the People,</hi> and not contrary to the COVENANT.</p>
+            <p>Publiſhed for the undeceiving of Many, and the encou<g ref="char:EOLhyphen"/>ragement of all honeſt men to aſſiſt this Engagement. <hi>By a Friend to the Commonwealth of</hi> ENGLAND.</p>
+            <q>
+               <hi>Si Populus vult decipi, decipiatur.</hi>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Giles Calvert,</hi> at the Black Spread-Eagle at the Weſt-end of <hi>Pauls.</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114580:2"/>
+            <pb n="1" facs="tcp:114580:2"/>
+            <p>
+               <seg rend="decorInit">T</seg>O demo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtrate the lawfulneſs and neceſſity of this preſen Engagement againſt the <hi>Scots</hi> by the Parliament of the Commonwealth of <hi>England,</hi> would be but the holding of a Candle to the Sun: were not the eyes of men very much blinded &amp; their Reaſon proſticuted to the dictates of Selfiſhneſs and Prejudice; it being a thing hardly to be imagined, that any Engliſh man ſhould be ſo far cheated, as to betray the Intereſt of his Country to the Scotiſh Nation; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that thoſe whoſe Principles have led them to aſſiſt the Parliament againſt the late King and whoſe prayers and ſwords h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve ſtrenuouſly endeavoured his removal, ſhould, after the apparent and acknow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edged hand of God; ſubduing that Faction, fall into it, and endeavour the re-inforcing thereof upon the blood and ruine of Religion, themſelves, and this Common-wealth. But ſeeing it hath pleaſed God to permit ſuch a ſpirit of deluſion and madneſs to ſeize on men<g ref="char:punc">▪</g> and that under the diſguiſe of Religion, and the miſguiding of Diſcontent, which may prove of dangerous concernment to themſelves and this Nation, I thought it my duty, according to my little time and ta<g ref="char:EOLhyphen"/>lent to unveil this Myſtery, which I lay before the World to ſerve thoſe ends for which God hath appointed it.</p>
+            <p>In the management of which I ſhall onely endeavour, with what brevity I can to manifeſt,
+<list>
+                  <item>1. The lawfulneſs and neceſſity of this preſent Engagement againſt the <hi>Scots.</hi>
+                  </item>
+                  <item>2. The groundleſs conjunction of thoſe of the Presbytery of this Na<g ref="char:EOLhyphen"/>tion with the Scots and Malignants either from Religion State-principles, or the demeanour of this Commonwealth towards them.</item>
+               </list>
+            </p>
+            <p>In the cloſe whereof ſomething may appear whereby every honeſt heart may have matter of encouragement effectually to aſſiſt this work, and to expect the preſence of the Lord to accompany them therein.</p>
+            <p>The Juſtneſs of this Engagement againſt the Scots will be evident when it's conſidered.</p>
+            <p>Firſt, that the Cauſe is the very ſame with that which was formerly in <hi>England, viz.</hi> againſt the tyranny of the King; which, after the ſolemn
+<pb n="2" facs="tcp:114580:3"/>Appeals of both parties to God hath eminently been from heaven determi<g ref="char:EOLhyphen"/>ned not onely once but a ſecond and a third <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e; and this not in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> onely but in <hi>Scotland</hi> and <hi>I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eland;</hi> upon which ground we may ex<g ref="char:EOLhyphen"/>pect his wonted preſence. This will appear no Riddle if it be minded.</p>
+            <p n="1">1. That<g ref="char:punc">▪</g> without giving any ſatisfaction for the innocent blood that hath been ſhed by him or his father in theſe Wars in theſe three Nations, or bringing him as a Delinquent to condign puniſhment they have treated with <hi>Charles Stuart</hi> eldeſt ſon to the late King, who hath actually levied Arms againſt the Parliament of <hi>England</hi> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave taken and proclaimed him King not onely of <hi>Scotland</hi> but of <hi>England</hi> and <hi>Ireland.</hi>
+            </p>
+            <p n="2">2. They have engaged to aſſiſt him with Forces and are in Arms againſt: the Commonwealth of <hi>England,</hi> whereby they highly own not onely the guilt of the former Wars, but gird unto <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir loins the blood that may be ſhed in this Quarrel, wherein they protect him from the Juſtice of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and aſſiſt hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ms further to purſue his tyr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nuical principles.</p>
+            <p n="3">3. They have joyned with all the old enemies of <hi>England</hi> Papiſts and Malignants; with the Rebels in <hi>Ireland</hi> whom they entertain in their Ar<g ref="char:EOLhyphen"/>mies as Officers and Souldiers, and are employed in the Plots and Con<g ref="char:EOLhyphen"/>trivances in this Nation, the more to facilitate the intended iſſue of their monſtrous Conjunction.</p>
+            <p>Secondly, it's not onely the ſame Cauſe that was formerly managed by the late King and his party but hath in it, as to them, theſe Aggravations.</p>
+            <p n="1">1. In that the Quarrel they now take upon them was firſt deſigned and acted upon Themſelves in the yeer 1639 by the late King, whom we then ſo greatly tendered, that we rather put the moſt probable hopes of our re<g ref="char:EOLhyphen"/>lief. <hi>viz.</hi> our Parliament, to a diſſolution then to aſſiſt him againſt them.</p>
+            <p n="2">2. That when the Q<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arrel was afterwards on foot in <hi>England.</hi> they ſeemed to retain ſo much ſenſe of the former cou teſie, that they levied Forces and came in to our aſſiſtance, declaring them to be not onely ours, but their Common enemies, and ſo for a time they purſued them; which Quarrel they now eſpouſe to themſelves.</p>
+            <p n="3">3. After we had rolled thorow the blood of ſeven yeers War, into a little Peace and were beg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nning to ſit under our Vines; in ſtead of rejoy<g ref="char:EOLhyphen"/>cing that we that took the War out of theirs into our own bowels were returned to reſt they cruelly deſigned our Invaſion, and with a full conſent of Parliament entred our borders with a great Army committing unſpeak<g ref="char:EOLhyphen"/>able miſchiefs and villanies in the Engliſh Nation; and all to ſet up the late King on the blood of the honeſt people of this Nation, and the de<g ref="char:EOLhyphen"/>ſtruction of Religion and Liberty: To which though ſome of the Leading men now amongſt them ſeemed to diſſent, yet we very well know who firſt
+<pb n="5" facs="tcp:114580:3"/>deſigned the Invaſion, and that the Invaſion was was not the ſcruple, but what hand ſhould manage it, whether Duke <hi>Hamilton,</hi> or the <hi>Kirk.</hi>
+            </p>
+            <p n="4">4. That when through the Providence of God this weapon turned into their own bowels ſo that the flames of war deſigned and blown upon us, were like to conſume them<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elves, upon the requeſt of thoſe men, which be<g ref="char:EOLhyphen"/>fore and now breath forth nothing but our deſtruction, we came to their aſſiſtance, not with Recompences but with love; not with the wounds of enemies but the embraces of friends; not with the powering forth of thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> blood but the laying of our own on the ground for their ſakes, and (through the bleſſings of God) ended that war and returned with ſuch humble expreſſions of our thankfulneſs as is too long to be related.</p>
+            <p n="5">5. When our enemies were ſubdued on all parts, and were upon the work before us in altering of the Government of the Nation, for the beſt ſecurity of the honeſt party, and the true adminiſtration of Juſtice a<g ref="char:EOLhyphen"/>mongſt us; of which not they, but our ſelves are the proper Judges, we took not the advantage of their breach of the Amity between us, nor the opportunit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es that lay before us, to put Laws upon them, or to claim any of their Priviledges, but left them to the policy of their own conſtitution; Notwithſtanding all which Indeerments, they ſeek now bloodily to put the ſon of the late King over us to mould our Conſtitutions according to their pleaſures, and to put us into War again after all our ſufferings. But though like <hi>Amalek</hi> they come to cut us off when they think we are weak and feeble inſteed of bringing forth Bread and Water to us, yet let them take heed leaſt God remember it againſt them, as he did againſt <hi>Amalek;</hi> and let them beware that the Grecian Horſe for whoſe enter<g ref="char:EOLhyphen"/>tainment they break down the Wals of their League and Principles, do not diſgorge ſuch a number of Arm'd men amongſt them, as may by wofull experience let them finde<g ref="char:punc">▪</g> twas not a preſent from heaven, but a neat deſign to poſſeſs their Dominion.</p>
+            <p>The diſguiſe under which theſe things are covered, is Religion and the Covenant, thinking thereby the better to deceive; which being truely weighed as will appear in the enſuing Diſcourſe, are aſhamed to cover ſuch rotten Sepulchres; but in their proper Colou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, you will finde theſe contrivances to be,
+<list>
+                  <item>1. The Riches and Lordlineſs of the Nobility.</item>
+                  <item>2. The Domination of the <hi>Kirk,</hi> over Conſcience and Authority.</item>
+                  <item>3. Their Unſatiable luſt to poſſeſs the ſweetneſs and Dominion of <hi>England;</hi> which to effect they take in any perſons or Intereſts (except ſome the more cunningly to deceive) and fear not to appeal to God to
+<pb n="4" facs="tcp:114580:4"/>judge between us, and to put the name of the Lord and Religion upon all their endeavors, which no doubt God will anſwer to their ſhame and ſorrow.</item>
+               </list>
+            </p>
+            <p>By what hath been ſaid concerning the cauſe of this Engagement and the Aggravations of it (to ſay nothing of former Actions) together with their continued refuſall to Treat with us, or to own the Authority of this Common-wealth, and the great deſigns they have laid in <hi>England</hi> not only to draw away the hearts of many of this Nation upon the pre<g ref="char:EOLhyphen"/>tence of Religion, from the Intereſt thereof by deſigning an univerſall riſing of Malignants and Presbyters over all this Common-wealth to de<g ref="char:EOLhyphen"/>ſtroy us; as by the Commiſſions, confeſsion, and other Papers taken on Colonel <hi>Robert Leuen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> under his own hand, and <hi>Charles Stuarts</hi> hand and Seal, with his confeſsion before his Execution, doth very much ap<g ref="char:EOLhyphen"/>pear: I ſay upon the conſideration of theſe and many other particulars which might be n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed, there will appear to any unbleſſed man, a great neceſſity enforcing this State to expedite their Armies for the prevention of the miſchiefes deſigned on them, and there to Engage the Enemy where it may be of moſt advantage to their affaires and leaſt detriment to their own borders: and if the making of <hi>Scotland</hi> the ſeat of that War they have deſigned upon us (whoſe borders by the laſt Invaſion, and theſe late practiſes lie open to us) may be a prevention of thoſe miſeries which their laſt Invaſions exerciſed on the Cor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, and thereby making the enemy to feel the ſmart of their own War; Juſtice and Prudence leads them to ſuch undertakings, which as it is ſufficient ground for entring that Nation with our Army, ſo it is anſwer enough to any that ſhall queſtion ſuch an Engagement.</p>
+            <p n="2">2. As to the Groundleſſeneſs of the Conjunction of any of the Presby<g ref="char:EOLhyphen"/>terie of this Nation with the <hi>Scots</hi> and the Malignants, although the Intereſt of <hi>England</hi> againſt <hi>Scotland</hi> the Principles of Freedom againſt Tyranny, the prevention of War<g ref="char:punc">▪</g> and blood in <hi>England</hi> ſhould be mat<g ref="char:EOLhyphen"/>ter enough for every Engliſhman<g ref="char:punc">▪</g> that hath been faithful to the Parlia<g ref="char:EOLhyphen"/>ment, and loves the peace of his country to be ſo far from joyn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng with, <hi>&amp;c.</hi> incouraging this enemy as to unite themſelves and live and dye to<g ref="char:EOLhyphen"/>gether againſt them<g ref="char:punc">▪</g> and in theſe particulars the groundleſſeneſs of it is ſufficiently manifeſted yet give me leave to demonſtrate that the Presbyterie eſpecially, who appear to be the leading men in this Engagement againſt us, have neither from Religion, their former State-principles, nor the de<g ref="char:EOLhyphen"/>portment of thoſe in Authority towards them, any ground of conjunction which the <hi>Scots</hi> and Malignants in this War; which (if God prevent not) may ſuddenly make <hi>England</hi> and <hi>Scotland</hi> and <hi>Aceldema.</hi>
+            </p>
+            <p n="1">
+               <pb n="5" facs="tcp:114580:4"/>
+1. As to Religion,<note place="margin">2 Cor 10.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Heb 4.12. Ioh. 18 36 M<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h. 26.52, 53.</note> The Apoſtle tels us that the weapons thereof are not carnall<g ref="char:punc">▪</g> but ſpiritual; not in Garments rowled in blood, but in the two-edged ſword of the Spirit: <hi>My kingdome</hi> (ſaith Chriſt) <hi>is not of this world otherwiſe I could pray my father and he ſhould ſend me Legi<g ref="char:EOLhyphen"/>ons of Angels,</hi> and my ſervants would fight for me therfore <hi>Peter</hi> put up thy ſword: for they that draw the ſword in this ſenſe ſhall periſh by the ſword. To raiſe Armes to put Nations into blood to make war a<g ref="char:EOLhyphen"/>gainſt authority, was neither the Doctrine of Chriſt, nor his Apoſtles; therefore (ſaith Chriſt) give unto <hi>Caeſar</hi> the things that are <hi>Caeſars;</hi> pay them Tribute leaſt we ſhould offend them, though as free men we think our ſelves exempted: When you enter into a houſe or City<g ref="char:punc">▪</g>
+               <note place="margin">Matth. 21.20.</note> and they receive you not what then? Raiſe Arms move ſedition ſhedd blood? No, ſhake the duſt off your ſeet againſt them: and pray (ſaith the Apoſtles) for thoſe that are in Authority over you,<note place="margin">Matth. 10.14. Act. 12 51. R m 13 4. R m 4 17 2 I'<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 3.16. Tat 17.</note> that under them you may live a godly life <hi>&amp;c.</hi> Even to ſuch higher powers let every o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e be ſubject. The office of a Miniſter conſiſts in things that concern the Kingdom of God which is Righteouſneſs, peace joy in the Holy Ghoſt; and as to that their work is to be in Doctrine, Exhortation Reproof <hi>&amp;c.</hi> and he muſt be one that's blameleſs, not given to wine filthy lucre no ſtr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ker <hi>&amp;c.</hi> not in ſitting on the Thrones of Earthly power, mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nting over Terren Glories, controwling affairs of State and putting Nations into war, where they are denyed this Lordlineſs; no the Son of man (ſaith Chriſt) came not to deſtroy b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t to ſave;<note place="margin">Luk 4 56. M <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.23.8. M tth. 20.25. 2 Cor. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> and be you not called R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bbies for after t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ings do the Gentiles ſeek. The Kingdom of God conſiſts in the ſpirit through which it is mighty in caſting down the ſtrong holds within: the work of the Goſpell muſt be carried on in the way of the Goſpell not by the Pow<g ref="char:EOLhyphen"/>ers of the World, but by the Word and Spirit; thoſe that proceed ot<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er<g ref="char:EOLhyphen"/>wiſe go without their Commiſſion, and conſequently without any pro<g ref="char:EOLhyphen"/>miſe of Protection. In a word ther's not Precept, or Example of Chriſt or his Apoſtles that they ever took the Authorities of the world to enforce Religion, nor called for fire from Heaven upon ſuch as refuſed, ex<g ref="char:EOLhyphen"/>cept thoſe to whom Chriſt ſaid You known not of what Spirit you are; nor that they intermeddled in ſetting Nations on fire, if they were not received,<note place="margin">Luk. 9.54.55.</note> or that mixt themſelves in theſe hum<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne affaires.</p>
+            <p>Therefore for the Presbyter in <hi>England</hi> to Deſign and Leavy war, to plot and conſpire to betray and give up their own Nation into the hands of ſtrangers and men of deſperate Spirits whoſe mercies are cruelties, and which may end in the deſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owring and ra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhment of Matrons and Virgins, the ripping up of women with child the daſhing of little ones a<g ref="char:EOLhyphen"/>gainſt the Wals, the blood and ruine of a Nation, their own Nation, and
+<pb n="6" facs="tcp:114580:5"/>all that is dear in it, becauſe every thing is not enforced as Doctrine which they lay down; becauſe what they propoſe as the external part of a Kirk, is not coercively enjoyned upon all men; themſelves not being Apoſtles or able to demonſtrate the truth of their aſſertions from the Scriptures or A<g ref="char:EOLhyphen"/>poſtolical infall<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bility, hath no ground at all from Chriſt o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Apoſtles, but the very contrary is judged by the Scriptures. It is evident that ſuch minde their own L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſts, and not the Lord Jeſus, to whom they pretend; and therefore when they ſuffer it will be <hi>as evil doers,</hi> not for the Goſpel</p>
+            <p n="2">2. Then for their State-principle I mean the cauſe of their firſt Engage<g ref="char:EOLhyphen"/>ment againſt the King, Was it not becauſe it was contrary to the Law of Nature (the ſafety of the People) that one man ſhould be above the Law, and diſpoſe of the lives and eſtates of the Nation as he pleaſed; and when the Parliament deſired redreſs in many grievances, to raiſe Arms againſt them and tear the very bowels of the Nations and put all upon the hazard, rather then to be limited in his unſatiable Will? And were not thoſe Gentle<g ref="char:EOLhyphen"/>men ſome of the firſt, the moſt zealous in Parliament Pulpits and Armies againſt him and his party and rejoyced that they had a life or eſtate to loſe or engage againſt him? Or could any thing be imagined to expreſs their de<g ref="char:EOLhyphen"/>teſtation of him and his party, more then came from their Pulpits P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns, and Swords? or are any to this day ſo ſevere againſt his party in Seque<g ref="char:EOLhyphen"/>ſtrations <hi>&amp;c.?</hi> And is not the Cauſe ſtill the ſame the ſame cruel bloody, tyrannical principles, and parties to be oppoſed whom if God ſhould per<g ref="char:EOLhyphen"/>mit to have the day, would execute ſuch horrid villanies murthers maſſa<g ref="char:EOLhyphen"/>cres that the Sun never ſaw; and would not reſt whilſt the face of honeſty were remaining in the Nation or indeed this any longer a People? Are they converted, nay are they not rather heightned in all malicious bloodineſs imaginable, and will let theſe men taſte of the Cup as deep as others, and herein be more miſerable to ſee their friends deſtroyed before them? Why then or upon what ground do the Presbyters after that God hath deliver<g ref="char:EOLhyphen"/>ed that King and his party into our hands a firſt a ſecond a third time, in <hi>England Scotland</hi> and <hi>Ireland</hi> hath brandiſhed his ſword<g ref="char:punc">▪</g> and given it a charge againſt them to their overthrow, and made th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m the deſtruction of thoſe that joyned to them, as well as witneſſed from heaven againſt them in the moſt ſignal manner that ever was in the world? Why then do they now ſtrike in with that Intereſt and joyn with thoſe and forraign peo<g ref="char:EOLhyphen"/>ple, to put their Country, their Religion their Wives and Children<g ref="char:punc">▪</g> their Lives and Liberties and all that is dear in the world after all our preſerva<g ref="char:EOLhyphen"/>tions, into utter deſtructions? Oh conſider this, and lay it to heart leſt you become <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uilty of the blood of your friends your ſelves and that which hath been committed by this party; leſt you fall with tranſgreſſors, and God
+<pb n="9" facs="tcp:114580:5"/>
+               <hi>tear you in pieces, and there be none to deliver you.</hi> Hath any thing been done that is not according to our firſt Principle, and that unavoidable Neceſſity enforced us? Could it be ſafe after all, to leave ſuch a dangerous Preſident on Record as a King unpuniſhed that had endeavoured to bring his Will thorow the Blood of a Nation, and the Liberties thereof, and had appealed to God to determine the Quarrel by the ſword? Or were it juſt to do ſo, to deſtroy the Servant, and excuſe the Maſter that gave the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<g ref="char:EOLhyphen"/>mand and to leave the honeſt party unſecured after all their ſufferings? Did not you fight againſt him in the Feild, and was not this as much as cutting off his head at <hi>White-Hall;</hi> onely you miſt your Execution, but that tooke? And when ſome of us being unſatisfied whether we ſhould kill the King if we met him in a Charge, and went to many of you to be re<g ref="char:EOLhyphen"/>ſolved;<note place="margin">
+                  <hi>Viz.</hi> Mr. <hi>Calamy,</hi> Mr <hi>Caſe,</hi> Mr. <hi>Love.</hi> Mr. <hi>Aſh.</hi> &amp;c.</note> did not you tell us that we might lawfully kill him? How comes now your Judgment to be altered? Can the power of Godlineſſe be ſafe amongſt theſe men? Can you love their company and joyn with their actions? If you ſay 'twas but a party of men did this, and that it was not according to the Covenant; Did not thoſe that you looke upon, be<g ref="char:EOLhyphen"/>tray their truſts, and fall into compliance with him contrary to their duty, and to the hazard of the Nation? Muſt all be loſt becauſe ſome are un<g ref="char:EOLhyphen"/>faithfull? And ſhould not they doe juſtice whoſe hearts God hath kept upright and called to performe it, becauſe others neglected it, and would not doe it? Was there not a neceſſity in theſe things? And for the Co<g ref="char:EOLhyphen"/>venant, were you to protect him otherwiſe then it conſiſts with Religion, and the ſafety of the People? Was it not according to Religion that he that ſheddeth mans bloud by man ſhould his bloud be ſhed? And could his comming in with a Negative voice, and his opportunities thereby to obtaine in a ſhort time all his ends, be ſafe for the Liberties of the People, eſpecially there being no conviction upon him, or any remorſe for his for<g ref="char:EOLhyphen"/>mer Actions? And was it not a part of the Covenant to bring Delin<g ref="char:EOLhyphen"/>quents to puniſhment? Was not he one, the Chiefe, the Principall? Or are Covenants of that nature any otherwiſe then Externall, ſerving onely whilſt the end <hi>(viz.)</hi> the ſafety and good of the People is cleare and perſpicuous? are they any longer binding then the Equitie of them re<g ref="char:EOLhyphen"/>manies, and the Powers that made them ſo underſtand it? Beſides, are Conſtitutions to be perpetuall? Hath not, and doth not God make many changes in the world, and as the good of the people is more brought to light, ſhould not Conſtitutions beare that in their foreheads? The ſafety of the People ought to forme Conſtitutions, and not old Conſtitutions to determine the ſafety of the people; nor ought every defect to cauſe an alteration, but where neceſſity enforceth, eſpecially where the former
+<pb n="8" facs="tcp:114580:6"/>proves deſtructive; are not the Laws changed upon this account? To what end ſerves all the diſcoveries of good in the world if Governments ſhould not be thereunto conformable? And to this end the Providence of God hath and doth worke up the policy of Nations according to their oppor<g ref="char:EOLhyphen"/>tunities to form their conſtitutions. Truely if things be ſifted to the bot<g ref="char:EOLhyphen"/>tom, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will appear that if the Government had been charged the late King execu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed by you, or thoſe hands you like, it had been the good, and in that the juſtice of it determined: but becauſe it is by others hands, you having layd your ſelves aſide in being unfaithfull to your Principles, and ſacrifi<g ref="char:EOLhyphen"/>ſing to the Gods that afflicted you; and now you will trie whether you can undo his worke againe, and give the lye to his Appearances, though in it you hazard your bodies and ſoules, and the being of <hi>England.</hi> I beſeech you ſadly to conſider this, and give Glory to the Lord of Hoſts, before he cauſe your feet to ſtumble farther and fall in the darke Moun<g ref="char:EOLhyphen"/>taines: Theſe things have no ground from you former principle.</p>
+            <p n="3">3. As to the Deportment of this State towards them, let it be conſi<g ref="char:EOLhyphen"/>dered what their Provocations have been, and what they have received in recompence, and then it will be evident that they have Ground to fight for the Common-wealth, and not againſt it.</p>
+            <p>Before I proceed to that, I ſhall onely premiſe their <hi>Maxime,</hi> which is true both in Religion and Reaſon; <hi>That the miſcariages of perſons ſhould never cauſe a man to throw away the Principles of Equitie:</hi> What though theſe men have had diſcouragements, and many now in Authority abounding with Infirmities; Shall we therefore turne into a contrary Cauſe, and thereby diſturbe and betray the Peace of our Countrey?</p>
+            <p>For the provocations given to the Rulers of this Nation, let it be conſide<g ref="char:EOLhyphen"/>red: Were they not the firſt beginners of Schiſm and Diviſion amongſt the Parliaments friends? Did not they as ſoone as God ſmiled a little on our proceedings, whilſt with one heart and hand we were purſuing a Common Enemy, begin a ſeparation with their Presbytery? which being as a bone caſt amongſt us, they denied any other Religion that was not of that faſhion? Did they not take off ſeverall deſerving Officers and Souldiers from their Union with their faithfull Brethren, to be in oppoſi<g ref="char:EOLhyphen"/>tion to them, whereby thoſe who were little enough to looke the Enemy in the face, looked upon one another as Enemies? Did they not Impor<g ref="char:EOLhyphen"/>tune the Parliament, even with breaches of their Priviledges, to make <hi>Shib<g ref="char:EOLhyphen"/>boleths</hi> to turne out of the Armyes and places of truſt thoſe that could not ſubſcribe to the <hi>Jure Divino</hi> of Presbytery, though they never yet did nor ever will from Scripture be able to manifeſt it? And though the per<g ref="char:EOLhyphen"/>ſons
+<pb n="9" facs="tcp:114580:6"/>that ſcrupled it might upon as good, nay on firmer grounds have moved for another f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me having more of Scripture, and as much faith<g ref="char:EOLhyphen"/>fullneſſe Gallantrie and ſufferings for the Parliament to commend them as the other if not more; their ſilence being, becauſe they thought it and doe ſtill eſteeme it Antichriſtian to enforce people to that worſhip of God which they doe not underſtand; the Lawes of Chriſt being like his King<g ref="char:EOLhyphen"/>dome, not Carnall but Spirituall. How many an opportunity had the Enemy by this? How much bloud was leſt, till the Providence of God brought forth another Army of thoſe men whom they had layd aſide and provided Engins to deſtroy their Conſciences or their perſons? When neceſſity brought them into the field what endeavours<g ref="char:punc">▪</g> what lorging<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were there to deſtroy them though the neck of England lay upon their proceedings! It would be endleſſe to reckon up all things? With what outſtretched neckes they gaped for their rout at <hi>Nasby!</hi> and when the Lord marveilouſly turn'd it into a day of Victory (which England will have cauſe alwaies to remember with thankfullneſs to God) how ſad were their hearts and at all the other unparallel'd mercies with which God had bleſſed them,<note place="margin">The like of <hi>Marſton-Moor.</hi>
+               </note> inſomuch that ſome of them judg'd it Judgements rather then mercies!</p>
+            <p>When through that Army the Enemy was ſubdued and <hi>Ireland</hi> ſtood in need of relief what endeavours were there to break this Army in peices, to bring up the <hi>Scots</hi> to this end, to put in a new General! <hi>&amp;c.</hi> When none of cheſe things would put us together by the eares, then upon a de<g ref="char:EOLhyphen"/>ſigne pretended for <hi>Ireland,</hi> but intending another end they endeavour the breaking it in peices and to bring the pretended forces for <hi>Ireland</hi> to ballance the Army; when part of the Army would have gone if led by by their owne Officers; that was refuſed being thought no leſs than dam<g ref="char:EOLhyphen"/>nation and ſo p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt by the Presbytery to ſend ſuch thither.<note place="margin">Mr. <hi>Nich<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> acknow<g ref="char:EOLhyphen"/>ledg me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t at <hi>Kingſton.</hi>
+               </note> Then they en<g ref="char:EOLhyphen"/>deavour to disb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd them noting them Traytors upon the report of a Pe ition intended from the Army to them though they had not ſeen the Petition, or l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd any depoſition on for what was ſuggeſted; and this as a gratuity for rede<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ming them from their enemies.</p>
+            <p>When none of thoſe would effect their end nor put us into blood then (ſo tender were they of this poor Lands ſufferings and blood, and of <hi>Ire<g ref="char:EOLhyphen"/>land</hi>) they deſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gre another war and to that end got a rude multitude ſome of the Ra<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es c<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pping them on the b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ok) who with an unparallel'd im<g ref="char:EOLhyphen"/>pudence put Force on the Houſe,<note place="margin">Note, the firſt Force was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y themſelvs.</note> neceſſitated the Speaker and other faith<g ref="char:EOLhyphen"/>ful per on to flee to the Army the reſt to revoke former Orders<g ref="char:punc">▪</g> and to ord<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n another Army, General Officers raiſing of <hi>London</hi> g<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iſoning it againſt the Army, and deſigned other parts alſo, and the <hi>Scots</hi> marching
+<pb n="12" facs="tcp:114580:7"/>to our borders which was the firſt war by them raiſed.</p>
+            <p>When God was pleaſed to blaſt this alſo that much blood was not ſhed, (no thanks to them) then they muſt deſigne a compliance with the late King and the <hi>Scots</hi> muſt be ſent for their preparations not voted againſt, private Agreements muſt paſs between the King and them: to accom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh this the <hi>Militia</hi> muſt lie unſetled, the N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vie muſt be broken (which great loſs is not yet recovered) a Perſonal Treaty muſt be driven on with fu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, though no men more againſt it formerly then them; and the riſing of the people made a pretence thereunto when it's known who ſtirred up the peo<g ref="char:EOLhyphen"/>ple to force a Treaty, although Treaties were known to be deſignes for miſchief; and the very treating with him put an acknowledgement of guilt upon themſelves. Then the <hi>Scots</hi> came in with a great Army; Inſurrecti<g ref="char:EOLhyphen"/>ons were everywhere to the great hozard of <hi>England;</hi> five thouſand of which under the Earl of <hi>Holland</hi> being followed with five hundred of ours and news thereof brought into the Aſſembly <hi>Oh</hi> ſaid a R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bby,<note place="margin">M. <hi>Hodges.</hi>
+               </note> 
+               <hi>but there is five<g ref="char:punc">▪</g> thouſand with my Lord to engage them;</hi> and the beſt of their actions were then to look on whilſt we were eng<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ging in blood; be ng thoſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of whoſe hand the King took the Nav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Duke <hi>Hamilton</hi> t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Scots Army and the Inſurrections the <hi>Militia</hi> of the Country; and ſo they helpt on a ſecond war upon their account, being the ſole encourage<g ref="char:EOLhyphen"/>ment of Scots and Malign<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s.</p>
+            <p>The goodneſs of God having delivered us from theſe ſtraits, and made us inſtruments to ſave <hi>Scotland</hi> themſelves and us, when we had oppor<g ref="char:EOLhyphen"/>tunity, and were altring the Conſtitution of the Nation for the beſt ad<g ref="char:EOLhyphen"/>vantage of Juſtice and Safety and the King called to account; then they rail againſt the Alteration, the Kings Execution; and in ſtead of lying down before the preſence of the Lord and bleſſing his Name for the good he had done<g ref="char:punc">▪</g> in preſerving them againſt their own wills they again encou<g ref="char:EOLhyphen"/>rage the Malignants and <hi>Scots</hi> vilifie and contemn the Government re<g ref="char:EOLhyphen"/>fuſe to own or obey them; every Pulpit excommunicating the State out of the Divinity of Truth the R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght of Authority, and the Hearts of the People; and have proceeded to aſſiſt and joyn with that Nation of <hi>Scot<g ref="char:EOLhyphen"/>land Charles Stuart</hi> ſon to the late King and all the Malignants and Re<g ref="char:EOLhyphen"/>bels of <hi>Ireland</hi> who manage the ſame Cauſe of the King, whom they pray for, yet could there not be a Prayer for<g ref="char:punc">▪</g> or Thankſgiving to God be had from them for what he hath wonderfully done by the Army in <hi>Ire<g ref="char:EOLhyphen"/>land;</hi> but to lay deſignes for an univerſal Riſing amongſt our ſelves, and ſo upon their own account have laid the foundation of a third war<g ref="char:punc">▪</g> which they call <hi>The Cauſe of the King and the Ki<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k;</hi> the Firſt being <hi>God and the King,</hi> the Second <hi>The King and Parliament:</hi> The firſt was <hi>Bel<g ref="char:EOLhyphen"/>lum
+<pb n="13" facs="tcp:114580:7"/>Epiſcopal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> and in this the Biſhops and the King fell together; the ſecond, the King fell from and by the Parliament: the third, <hi>Bellum Presbyteriale,</hi> and in this let them take heed leſt the King and the Kirk fall together. Thus they prefer their own unrighteous diſcontents before the Peace of this Nation; valuing more the venting of their p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns then the Lives Liberties, and Territories of <hi>England;</hi> which they had rather, and therefore give life unto and aſſiſt the <hi>Scots</hi> and <hi>Malignants</hi> to the ruine of this Nation, then that thoſe whom God hath proſpered, and put in Authority ſhould govern,<note place="margin">Little doſt thou think, <hi>ô England,</hi> Few for<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ain Nations are now plotting the raviſh<g ref="char:EOLhyphen"/>ing of the wives of thy boſome, and to de<g ref="char:EOLhyphen"/>ſtroy thee utterly.</note> and themſelves be out of the Chair over mens Conſciences and the State; though their own blood may prove the ſecond Scene of the Tragedy.</p>
+            <p>Before I paſs this<g ref="char:punc">▪</g> let me intreat thee, O <hi>England</hi> to conſider who hath put thee into Two wars already ſince thy Firſt was ended; and the <hi>Ma<g ref="char:EOLhyphen"/>lignants</hi> and <hi>Scots</hi> are encouraged to this Third war (likely to be more bloody then all that hath yet been) through theſe men; and that the blood that ſhall be ſhed is from them, as the cauſe, upon what grounds thou ſeeſt; that thou mayſt indeed perceive who makes thee miſerable; the in<g ref="char:EOLhyphen"/>tereſt of the Prieſt having all along ſet fire in this Nation; the Biſhops were firſt theſe follow; to whom the Lord give repentance, leſt they finde it a <hi>hard thing to kick againſt the pricks.</hi>
+            </p>
+            <p>But now what hath the carriage of the State been towards them? Have they not notwithſtanding all the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e high provocations contrary to the Law of God and Man Have they not, I ſay permitted them and always will the liberty of their Conference as to Religion? (though they denied it to us and do ſtill deny it.) Have they not the propriety of their Eſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tes, the ſecurity of the Laws and all other advantages, onely they require them to be true and not conſp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e againſt this Commonwealth<g ref="char:punc">▪</g> which t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey refuſe? Have they not been treated with all civilities, and commended their way of Worſhip to the Nation? And for all the deſpe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>viſions in the Na<g ref="char:EOLhyphen"/>tion, and three ſeveral Wars, which have coſt much blood<g ref="char:punc">▪</g> and how much more wel now not; Hath any man of them ſuffered? (the more I fear the State hath to anſwer for:) onely when their rage had proceeded ſo far as to lay the ground of this War, and the cloſing with the <hi>Scots</hi> and <hi>Ma<g ref="char:EOLhyphen"/>lignants,</hi> and would not forbear their rebellious againſt the State, ſome few of them have been ſuſpended from their P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s<g ref="char:punc">▪</g> that they might be hindred from pouring more oil into the flame of this Nation; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he medling with State-affairs being that for which they are ſuſpended; ſuch an im<g ref="char:EOLhyphen"/>placable ſpirit having ſcized upon them that nothing but the ruine of this Power and overthrowing all that God hath done for us will ſatisfie them, and this under the diſguſe of Religion, when as it is their own Luſts that
+<pb n="12" facs="tcp:114580:8"/>is the rife of theſe Wars, and which will coſt dear in the end. I do even tremble to think how they will be able to appear before the Lord, whoſe Name they put upon their unrighteous actions; comm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t iniqu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty rail and revile, put Nations into blood, and yet cry <hi>The Temple of the Lord.</hi> The righteous God of heaven and earth will one day make the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e things naked before the Sun and bring forth the righteouſneſs of his People.</p>
+            <p>By all that hath been ſaid will ſtrongly appear not only this Juſtice and neceſſity of this Engagement againſt <hi>Scotland</hi> b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t that all thoſe Presby<g ref="char:EOLhyphen"/>ters that ſhall Engage againſt the P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rliament of <hi>England</hi> have no ground either from Religion; their former Stat-Principle or the demeanour of thoſe in Authority towards them to do ſo, but the contrary.</p>
+            <p>And from all that hath been ſaid there is g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t matter of encour<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge<g ref="char:EOLhyphen"/>ment (if the Lord ſo pleaſe) to every faithful ſoul to proceed in this cauſe of God, and his people, without fearing any d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fficulties, and qu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etly to ex<g ref="char:EOLhyphen"/>pect his bleſſing on their endeavors and becauſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our enemies may ſeem many, let me reckon up a few<g ref="char:punc">▪</g> which may be as a Mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntain full of Cha<g ref="char:EOLhyphen"/>riots of fire for your aſſiſtance; let your enem<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es have all the blood and miſchief ſhedd in the late wars upon their ſhoulders; their cauſe and gui<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t cannot be ſeparated.</p>
+            <p n="2">2. They are joyned to Idolaters, and that accurſed thing which God hath ſo much declared ag<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inſt, and which hitherto hath ruin'd all that have joyned to it; having ſnatcht away a King an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Monarchy in his diſ<g ref="char:EOLhyphen"/>pleaſure in a ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gnall manner to which workings of Heaven they dare bid defiance and g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve the lye to all that hath been ſaid of God concerning it.</p>
+            <p n="3">3. We have given no juſt occaſion to the <hi>Scots</hi> or P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>esbyters but have protected them in the Enjoyment of their Conſciences, Eſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tes and in o<g ref="char:EOLhyphen"/>ther advantages ſo far as the Publique ſafety would adm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t; whom if a Spirit of deluſion did not poſſeſs, they would ſee how impoſs<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble it is that the ſpiri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of prophaneneſs ſhould ſet up the power of godlineſs, the Prin<g ref="char:EOLhyphen"/>ciples of Tyranny the freedom of the People the Intereſt of <hi>Scotland,</hi> the <hi>Engliſh</hi> D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nion, or themſelves ſafe in the hands of ſuch men as will m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke no diff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rence.</p>
+            <p n="4">
+               <note place="margin">So was Chriſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e counted a Blaſph<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and upon that crucified.</note>4. That the Intereſt of <hi>J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſus Chriſt</hi> in the Spirit and Power of Reli<g ref="char:EOLhyphen"/>gion is on this ſide and is indeed that which they maligne, and therefore brand with the name of Sect<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e.</p>
+            <p n="5">5. That the time is now drawing nigh wherein God will cut ſhort his work in Righteouſneſs. Mountains muſt m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> down before him; he draws things into a more high and narrow diſpute, not ſo much between Pro<g ref="char:EOLhyphen"/>phaneneſs and Religion (which prophaneneſs and Idolatry they take in to their aſs<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtance) but we the form and power of Godlineſs: and now
+<pb n="13" facs="tcp:114580:8"/>the powers of that Nation in the form are drawing into Armageddon, a<g ref="char:EOLhyphen"/>gainſt the power of Religion, and have encompaſſed the beloved City, but fire will come down from Heaven to deſtroy them.</p>
+            <p n="6">6. A great ſpirit of Prayer and Confidence is riſen up in the Saints for his preſence in this work; wherein not the <hi>arm of fleſh,</hi> but his Glory ſhall be ſeen and acknowledged; and they are drawn forth in their expe<g ref="char:EOLhyphen"/>ctation to behold ſome eminent appearance.</p>
+            <p n="7">7. To adde no more the Scipture tells us, that the neerer <hi>Babylon</hi> is to her deſtruction, the more ſhe is in her confidence. And let us not be diſ<g ref="char:EOLhyphen"/>couraged, that many that pretend to godlineſs are with them: Many <hi>Jews</hi> ſtaid and periſhed in old <hi>Babylon:</hi> if they joyn to <hi>Babylon,</hi> they ſhall fall with her. <hi>Come out of her, my people, leſt ye be partakers of her ſins and of her plagues.</hi> If they will uphold what God will deſtroy, we muſt do our work, and leave it to God, who knows how to deliver the Righteous, to ſave their perſons and open their eyes; which is our prayer to God for them, though they prepare war in their hearts againſt us.</p>
+            <p>
+               <hi>Thus have I, according to what I have received, and my little time, endeavoured to unvail the myſtery of Iniquity which is now working in</hi> Scotland <hi>and</hi> England, <hi>and what indeed lies at the bottome of all Parties in theſe tranſactions: more might be ſaid, but this is not in<g ref="char:EOLhyphen"/>tended for a Volume. I bleſs the Lord I have no other end in it then to diſcharge my duty in this hour of Temptation to my poor Country, which ſeems to be betrayed and beſet on all hands; whoſe welfare I value above my life, and out of my tender affections to many of the Presbyterie whom I love and reſpect, and deſire that they may be delivered out of the ſnare of the Devil in which they are taken Cap<g ref="char:EOLhyphen"/>tive: indeed its no bad Counſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l to them to weigh theſe things ſeriouſ<g ref="char:EOLhyphen"/>ly, leaſt they be farther found fighters againſt God, betrayers, and rippers up of the bowels of their Country deſtroyers of the Saints in their juſt proceedings, under the pretence of the Honor of God Chriſt and the Goſpel; and that other honeſt people who I believe truely fear God, may not be deluded by the guiles of men who lie in wait to deceive. I have no perſonal prejudice againſt any one, nor write I any thing out of prejudiced ſpirit but have dealt plainly according to the truth of things, and neceſſity that lies upon me to pluck ſome (if it may be) out of the fire; for 'tis now no jeſting; the</hi> Scots <hi>and Malig<g ref="char:EOLhyphen"/>nants have through diſcontent cheated thoſe men in their aſſiſtance, which is likely to prove either their deſtruction, or our ruin and all the truely faithful people in the world. Many of theſe things have been
+<pb n="14" facs="tcp:114580:9"/>longer obſerved by me but was loath to put them on the Stage, hoping that God would have let theſe men ſee the Error of their waies: but when they proceed ſo high as that they occaſion this war that is now on foot, which is likely, to have more black attendance then any yet; and their paſsions muſt fall, or we with the faithful in the Land, and the Nation, muſt be ruined; I could not but thus diſcharge my conſcience, to let this Nation know, that theſe men have been and are now the ground of the miſeries that have been ſince the firſt Conqueſt of this Enemy and ſhall proceed on this Engagement. I have faithful<g ref="char:EOLhyphen"/>ly done it, as in his preſence, and let the effect be as it pleaſeth him; onely let every faithful ſoul whom God hath preſerved from being led away with the errour of the wicked, lift up his heart, and in all humi<g ref="char:EOLhyphen"/>lity and conſidence proceed in this work againſt all theſe generations that lift up their hand againſt Heaven and their Country, as that wherein the preſervation of Religion Civility and Liberty the Being of</hi> England, <hi>the ſupport of other people who lie under tyrannical Go<g ref="char:EOLhyphen"/>vernours, the honour of God and Chriſt is concerned; and let them believe that the Lord, who hath hitherto, to the amazement of the world, brought along this Cauſe, and bleſſed his people in it, will not, after all this, give us up as a proy to our blood-thirſty enemies; and for his great Names ſake, and the praiſe of his Workings, he will not let the Enemy ſay that Profaneſs is better then Religion, Tyranny then Juſtice, Hypocriſie then <g ref="char:V">Ʋ</g>prightneſs, the Form of godlineſs then the Power: No ſurely, his work ſhall go on, and he</hi> will cut it ſhort in righteouſneſs. <hi>In confidence of which aſsiſtance of God, and the en<g ref="char:EOLhyphen"/>dearments of this Engagement, let us rather leave our bodies in the ground as a teſtimony to the truth of theſe things, then by any baſe de<g ref="char:EOLhyphen"/>ſpondence of ſpirit neglect and betray this Cauſe, wherein his glory is ſo much concerned, and the welfare of theſe Nations.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
